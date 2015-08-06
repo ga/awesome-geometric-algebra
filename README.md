@@ -14,6 +14,9 @@ A curated list of geometric algebra resources, inspired by [awesome](https://git
 - [Space-Time Algebra](http://www.springer.com/us/book/9783319184128) by **David Hestenes**
 - [Geometric Algebra for Physicists](http://geometry.mrao.cam.ac.uk/2007/01/geometric-algebra-for-physicists/) by **Chris Doran** and **Anthony Lasenby**
 - [Linear and Geometric Algebra](http://faculty.luther.edu/~macdonal/laga/index.html) and [Vector and Geometric Calculus](http://faculty.luther.edu/~macdonal/vagc/index.html) by **Alan Macdonald**
+- [Geometric Algebra For Computer Science, An Object Oriented Approach to Geometry](http://www.geometricalgebra.net/) by **Leo Dorst, Daniel Fontijne and Stephen Mann**
+- [Geometric Algebra with Applications in Engineering](http://link.springer.com/book/10.1007/978-3-540-89068-3) by **Christian Perwass**
+- [Foundations of Geometric Algebra Computing](http://link.springer.com/book/10.1007/978-3-642-31794-1) by **Dietmar Hildenbrand**
 
 ## Contribution
 
