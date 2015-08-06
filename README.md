@@ -7,6 +7,7 @@ A curated list of geometric algebra resources, inspired by [awesome](https://git
 - [Imaginary Numbers Are Not Real](http://geometry.mrao.cam.ac.uk/wp-content/uploads/2015/02/ImagNumbersArentReal.pdf) by **Stephen Gull**, **Anthony Lasenby**, and **Chris Doran**
 - [Oersted Medal Lecture 2002: Reforming the Mathematical Language of Physics](http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf) by **David Hestenes**
 - [A Survey of Geometric Algebra & Geometric Calculus](http://faculty.luther.edu/~macdonal/GA&GC.pdf) by **Alan MacDonald**
+- [Geometric Algebra](http://arxiv.org/abs/1205.5935 "Geometric Algebra") by **Eric Chisolm**, good for learning the technical details
 
 ### Books
 
