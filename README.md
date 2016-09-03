@@ -18,6 +18,11 @@ A curated list of geometric algebra resources, inspired by [awesome](https://git
 - [Geometric Algebra with Applications in Engineering](http://link.springer.com/book/10.1007/978-3-540-89068-3) by **Christian Perwass**
 - [Foundations of Geometric Algebra Computing](http://link.springer.com/book/10.1007/978-3-642-31794-1) by **Dietmar Hildenbrand**
 
+### Videos
+
+- [Geometric Algebra and Calculus Videos](https://www.youtube.com/channel/UCymE67THrWoeTABxzJm1wdg/videos) by **Alan Macdonald**
+- [From Vectors to Multivectors](https://www.youtube.com/playlist?list=PLQ6JJNfj9jD_H3kUopCXkvvGoZqzYOzsV) by **Nick Okamoto**, a 3-part intro on Youtube
+
 ## Contribution
 
 The goal is to eventually use a peer curation process for maintaining this repo once a sufficient number of people are participating in the organization. Until then, just submit pull requests or open an issue.
