@@ -20,6 +20,7 @@ A curated list of geometric algebra resources, inspired by [awesome](https://git
 
 ### Videos
 
+- [Geometric Algebra series](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K) by **Mathoma**
 - [Geometric Algebra and Calculus Videos](https://www.youtube.com/channel/UCymE67THrWoeTABxzJm1wdg/videos) by **Alan Macdonald**
 - [From Vectors to Multivectors](https://www.youtube.com/playlist?list=PLQ6JJNfj9jD_H3kUopCXkvvGoZqzYOzsV) by **Nick Okamoto**, a 3-part intro on Youtube
 
