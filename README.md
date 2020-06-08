@@ -1,6 +1,6 @@
 # Geometric Algebra Resources
 
-A curated list of geometric algebra resources, inspired by [awesome](https://github.com/sindresorhus/awesome) lists. Also see [awesome-geometric-algebra by pygae](https://github.com/pygae/awesome-geometric-algebra).
+A curated list of geometric algebra resources, inspired by [awesome](https://github.com/sindresorhus/awesome) lists. Also see [pygae/awesome-geometric-algebra](https://github.com/pygae/awesome-geometric-algebra).
 
 ### Introductions
 
