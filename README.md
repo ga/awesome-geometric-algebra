@@ -23,6 +23,7 @@ A curated list of geometric algebra resources, inspired by [awesome](https://git
 
 ### Videos
 
+- [From Zero to Geo series](https://www.youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy) by **sudgylacmoe**
 - [Geometric Algebra Series](https://www.youtube.com/playlist?list=PLpzmRsG7u_gqaTo_vEseQ7U8KFvtiJY4K) by **Mathoma**
 - [Geometric Algebra for Computer Graphics - Siggraph 2019](https://www.youtube.com/watch?v=tX4H_ctggYo) by **Charles Gunn**
 - [Geometric Algebra and Calculus Videos](https://www.youtube.com/channel/UCymE67THrWoeTABxzJm1wdg/videos) by **Alan Macdonald**
