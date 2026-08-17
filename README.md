@@ -20,6 +20,7 @@ A curated list of geometric algebra resources, inspired by [awesome](https://git
 - [gal](https://github.com/jeremyong/gal) :: C++ expression compiler for GA
 - [lean-ga](https://github.com/pygae/lean-ga) :: GA proof verification
 - [tfga](https://github.com/RobinKa/tfga) :: Tensorflow implementation of GA in python
+- [geometric-algebra](https://codeberg.org/jordibc/geometric-algebra) :: GA library and calculator in clojure
 
 ### Videos
 
